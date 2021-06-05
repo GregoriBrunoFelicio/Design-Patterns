@@ -1,11 +1,9 @@
 ﻿namespace Design_Patterns
 {
-
     public class Pedido
     {
         public decimal Total { get; set; }
     }
-
 
     public class Bradesco : CalculoDeJuros
     {
@@ -46,5 +44,4 @@
 
         }
     }
-
 }
