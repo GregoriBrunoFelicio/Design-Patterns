@@ -28,11 +28,6 @@ namespace Design_Patterns
         }
     }
 
-    public abstract class Cliente
-    {
-        public string Nome { get; set; }
-    }
-
     public class Cliente1 : ICalculo
     {
         public void Calcular(int valor)
