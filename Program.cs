@@ -1,54 +1,19 @@
-﻿using System;
+﻿using Design_Patterns.Abstract_Factory;
+using System;
 
 namespace Design_Patterns
 {
-    class Program
+    internal class Program
     {
-        static void Main()
+        private static void Main()
         {
-            var calculo = new Calculo(new Cliente3());
-            calculo.Calcular(45);
-        }
-    }
+            AnimalFactory brazilianAnimal = new BrazilForestFactory();
 
-    interface ICalculo
-    {
-        void Calcular(int valor);
-    }
+            var animalWorld = new AnimalWorld(brazilianAnimal);
 
-    class Calculo : ICalculo
-    {
-        private readonly ICalculo calculo;
+            animalWorld.FoodChain();
 
-        public Calculo(ICalculo calculo) => this.calculo = calculo;
-
-        public void Calcular(int valor)
-        {
-            calculo.Calcular(valor);
-        }
-    }
-
-    public class Cliente1 : ICalculo
-    {
-        public void Calcular(int valor)
-        {
-            Console.WriteLine(2 + valor);
-        }
-    }
-
-    public class Cliente2 : ICalculo
-    {
-        public void Calcular(int valor)
-        {
-            Console.WriteLine(3 + valor);
-        }
-    }
-
-    public class Cliente3 : ICalculo
-    {
-        public void Calcular(int valor)
-        {
-            Console.WriteLine(4 + valor);
+            Console.ReadKey();
         }
     }
 }

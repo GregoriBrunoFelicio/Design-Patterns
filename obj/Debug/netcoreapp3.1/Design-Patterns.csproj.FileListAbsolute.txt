@@ -11,3 +11,17 @@ C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Design-Patterns\obj\Debug\netc
 C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.pdb
 C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.genruntimeconfig.cache
 C:\Users\GregoriBrunoFelicio\Desktop\Repositories\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.csproj.AssemblyReference.cache
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.exe
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.deps.json
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.runtimeconfig.json
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.runtimeconfig.dev.json
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.dll
+E:\Projects\Design-Patterns\bin\Debug\netcoreapp3.1\Design-Patterns.pdb
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.csproj.AssemblyReference.cache
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.AssemblyInfoInputs.cache
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.AssemblyInfo.cs
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.csproj.CoreCompileInputs.cache
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.dll
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.pdb
+E:\Projects\Design-Patterns\obj\Debug\netcoreapp3.1\Design-Patterns.genruntimeconfig.cache
